@@ -1,2 +1,5 @@
 # Image-Recognition-Calculator
-Recognizes an operation from a given image to be done by the program, limited to sum, subtraction, multiplication and division.
+Recognizes an operation from a given image, to be solved by the program as well. Limited to sum, subtraction, multiplication and division.
+A database with images has been given to test the functionability.
+
+## More info -> README_useinfo.pdf
